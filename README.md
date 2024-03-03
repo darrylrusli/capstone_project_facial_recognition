@@ -1,2 +1,2 @@
 # Capstone Project: Facial Recognition
-This folder is where I have done capstone project work with chosen model. The accuracy of the chosen model 80%.
+Achievement: Tested and evaluated the Deep Learning Algorithms for accurate facial recognition using Python Programming. This enhanced the security, improved public safety, and effective law prevention and crime prevention.
